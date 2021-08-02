@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jagadeesh M B
 - Student in Sri Jayachamarajendra College of Engineering(JSS STU), Mysuru.
-- 👀 I’m interested in Computers Networking, Communication and Software developing domains.
+- 👀 I’m interested in Computers Networking and Software developing domains.
 
 
 <!---
